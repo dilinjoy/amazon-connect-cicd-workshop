@@ -1,5 +1,5 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
+  "instanceAlias": "mytest-cicd-912401292727",
   "instanceStorageBucketName": "connect-aaazzz",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
